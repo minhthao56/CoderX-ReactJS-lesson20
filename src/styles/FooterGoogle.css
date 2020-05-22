@@ -1,0 +1,15 @@
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F2F2F2;
+    padding: 10px;
+}
+.container-footer a{
+    text-decoration: none;
+    margin: 10px;
+    color: gray;
+}
+.container-footer a:hover{
+    text-decoration:underline;
+}
